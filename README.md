@@ -2,4 +2,6 @@
 
 /Images/pie_chart.png
 
+![my image](Images/pie_chart.png)
+
 
