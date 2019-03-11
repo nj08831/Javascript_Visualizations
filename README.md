@@ -1,5 +1,5 @@
 # Belly Button Biodiversity
 
-(Images/pie_chart.png)
+/Images/pie_chart.png
 
 
