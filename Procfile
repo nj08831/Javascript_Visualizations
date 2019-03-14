@@ -1,1 +1,1 @@
-web: gunicorn visual_env.app:app
+web: gunicorn app:app
