@@ -1,5 +1,6 @@
-# Belly Button Biodiversity
 
-(Images/pie_chart.png)
+Project Visualization (Screenshot)
+
+![my image](Images/pie_chart.png)
 
 
